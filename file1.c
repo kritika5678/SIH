@@ -2,5 +2,5 @@
 #include<conio.h>
 int main()
 {
-  i
+  int i
 }
